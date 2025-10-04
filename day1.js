@@ -56,6 +56,4 @@ if (averageGrade <= 50) {
   alert(
     `You are ${STUDENTNAME}, ${AGE}, STUPID MF you got an average of ${averageGrade} which is F`
   );
-} else {
-  alert("INVALID");
 }
