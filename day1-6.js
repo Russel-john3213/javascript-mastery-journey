@@ -1,6 +1,5 @@
 let n = +prompt("input");
 for (let i = 0; i < n; i++) {
-  asterisk = "*";
   console.log(" " + asterisk);
 }
 
